@@ -1,0 +1,15 @@
+1)profile pic code
+
+2)Lastseen code
+
+3)chat code
+
+4)Attach file( Images, video)
+
+5)scrolling code
+
+6)Emoji code
+
+7)Authentication code
+
+8)Lastseen Hide code
