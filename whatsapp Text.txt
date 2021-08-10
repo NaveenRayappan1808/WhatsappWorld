@@ -4,7 +4,7 @@
 
 3)chat code
 
-4)Attach file( Images, video)
+4)Attach file( Images, video, pdf, documents and Excel)
 
 5)scrolling code
 
